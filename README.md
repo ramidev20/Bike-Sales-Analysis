@@ -12,7 +12,7 @@ this data analysis project showcase my experience in handling data for analysing
 
 ### Data Sources
 
-- Sales data : the main dataset used for this analyzis project is 'sales_data.csv' file, containing detailed informations about each sale for the company.
+- Sales data : the main dataset used for this analyzis project is 'index.csv' file, This dataset contains detailed records from 2020 to September 2024 time of bike sales from United States, capturing detailed sales transactions for a bike store chain.
   
 ### Tools
 - Excel 
@@ -21,9 +21,9 @@ this data analysis project showcase my experience in handling data for analysing
 ### Data Cleaning/Preparation
 
 In the initial data preparation phase, we performed the following tasks:
-1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting.
+- Data loading and inspection.
+- Handling missing values.
+- Data cleaning and formatting.
 
 ### Exploratory Data Analysis
 
