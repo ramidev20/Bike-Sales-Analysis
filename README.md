@@ -11,6 +11,8 @@
 
 this data analysis project showcase my experience in handling data for analysing, by analyzing various aspects of the sales data we get deeper understanding Key Performance Indicators to make data driven recomendations.
 
+
+
 ### Data Sources
 
 - Sales data : the main dataset used for this analyzis project is 'index.csv' file, This dataset contains detailed records from 2020 to September 2024 time of bike sales from United States, capturing detailed sales transactions for a bike store chain.
