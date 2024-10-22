@@ -10,7 +10,7 @@
 ## Project Overview
 ---
 
-this data analysis project showcase my experience in handling data for analysing, by analyzing various aspects of the sales data we get deeper understanding Key Performance Indicators to make data driven recomendations.
+this data analysis project showcase my experience in handling data for analysing, by analysing various aspects of the sales data we get deeper understanding Key Performance Indicators to make data driven recommendations.
 
 ### Dashboard
 <img src="images/dashbaord.png" width=60% height=60%>
