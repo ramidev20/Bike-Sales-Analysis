@@ -1,4 +1,4 @@
-# Data-analyst-project
+# Bike Sales Analyzis throw USA
 
 ## Table of Contents
 
@@ -7,6 +7,7 @@
 - [Recommendations](#recommendations)
   
 ### Project Overview
+---
 
 this data analysis project showcase my experience in handling data for analysing, by analyzing various aspects of the sales data we get deeper understanding Key Performance Indicators to make data driven recomendations.
 
