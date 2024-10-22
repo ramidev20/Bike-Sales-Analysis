@@ -1,4 +1,4 @@
-# Bike Sales Analyzis throw USA
+# Bike Sales Analysis throw USA
 
 ## Table of Contents
 
